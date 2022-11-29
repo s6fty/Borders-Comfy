@@ -9,4 +9,4 @@
 
 ![preview](preview2.png)
 
-## **uses default mpd config but edited colours**
+**uses default mpd config but edited colours**
